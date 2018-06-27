@@ -24,16 +24,11 @@ main:
     match: fotogalerie
   - link: /kontakt/
     name: Kontakt
-    match: kontakt        
+    match: kontakt
 
 
 bottom:
-  - class: small-12 medium-4
-    title: Připoj se
-    links:
-      - link: /pripoj-se/
-        name: Dej nám vědět
-  - class: small-12 medium-4
+  - class: small-12 medium-4 medium-offset-2
     title: Makáme
     links:
       - link: /lide/roman-semik/
@@ -42,7 +37,7 @@ bottom:
         name: Program
       - link: /aktuality/
         name: Aktuality
-  - class: small-12 medium-4
+  - class: small-12 medium-4 end
     title: Otevřenost
     links:
       - link: https://ucet.pirati.cz
