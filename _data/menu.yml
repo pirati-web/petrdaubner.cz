@@ -13,19 +13,19 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /lide/
-    name: O nás
-    match: lide
-  - link: /komunalni-volby/praha2018
-    name: Komunální volby
-    match: komunalni-volby
-    submenu:
-      - link: /komunalni-volby/praha2018
-        name: Program na radnici
-        match: radnice
-      - link: /komunalni-volby/senat
-        name: Senát
-        match: senat
+  - link: /lide/roman-semik/
+    name: Můj příběh
+    match: muj-pribeh
+  - link: /program/
+    name: Program
+    match: program
+  - link: /fotogalerie/
+    name: Fotogalerie
+    match: fotogalerie
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt        
+
 
 bottom:
   - class: small-12 medium-4
@@ -36,10 +36,10 @@ bottom:
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
+      - link: /lide/roman-semik/
+        name: Můj příběh
+      - link: /program/
+        name: Program
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
