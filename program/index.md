@@ -1,6 +1,6 @@
 ---
 layout: program-post
-title: Program, se kterým jdu do voleb o Senát Parlamentu ČR
+title: Program do voleb o Senát Parlamentu ČR
 description: Ing. Roman Semík - volební program kandidáta do senátu
 keywords: program, senát
 rbar: fb
