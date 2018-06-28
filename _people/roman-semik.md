@@ -10,7 +10,9 @@ img: people/semik.jpg # zakomentuj radek dokud není fotka
 ordclenove: 1
 rbar: personContact, foto
 mail:
-  - roman.semik@gmail.com
+  - roman.semik@pirati.cz
+mob:
+  - +420 724 122 151
 profiles:
   facebook: https://www.facebook.com/SeSemikemDoSenatu/  # pokud nema, staci smazat tuto radku
 ---

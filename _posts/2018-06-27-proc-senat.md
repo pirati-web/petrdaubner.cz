@@ -6,7 +6,7 @@ layout: post
 title: Proč kandidovat do Senátu
 author: Roman Šemík
 authorId: roman.semik    # uid nekoho z _people (nepoviné)
-image: posts/obrazek.u.tohoto.postu.jpg
+image: posts/semik-stanek.png
 ---
 
 Už jste to určitě někdy slyšeli nebo četli. Senát jako pojistka demokracie. Mnoho voličů ovšem považuje horní komoru Parlamentu za nadbytečnou. Vysvětlovat potřebu Senátu jako jističe demokratického vývoje naší společnosti je velkým úkolem pro senátorské kandidáty v letošní volební kampani. To platí nejen v klidných, ale zejména v bouřlivých časech. Dělal to tak i Petr Pithart, dlouholetý senátor ve volebním obvodu č. 44, který zabírá část Chrudimska a Havlíčkobrodska. Tento obvod je zajímavý tím, že zasahuje do dvou krajů a že má dvě přirozená centra. Rád bych se ucházel o hlasy voličů ze všech 140 obcí ležících na území tohoto obvodu.
