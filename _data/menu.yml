@@ -19,9 +19,10 @@ main:
   - link: /program/
     name: Program
     match: program
-  - link: /fotogalerie/
-    name: Fotogalerie
-    match: fotogalerie
+  #  Fotogalerie potřebuje ještě doladit, zatím v první verzi nebude
+  # - link: /fotogalerie/
+  #   name: Fotogalerie
+  #   match: fotogalerie
   - link: /kontakt/
     name: Kontakt
     match: kontakt
