@@ -49,8 +49,8 @@ homepageBanner:
   title: Program
   breakpoint: 640 # breakpoint in pixels when to start showing `default` instead of `mobile`
   image:
-    default: header/komunal-banner-large.png
-    mobile: header/komunal-banner-small.png
+    default: header/roman-semik-large.jpg
+    mobile: header/roman-semik-small.jpg
 
 calendar:
   # Get api key from Google Developer Console
