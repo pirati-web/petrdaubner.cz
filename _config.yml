@@ -20,7 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 keywords: piráti, česká pirátská strana, svoboda, demokracie, kontrola moci a mocných, zjednodušení státu pomocí technologií, ochranu občanů před šikanou, obranu svobody, černá na bílé, ivan bartoš, e-government, politika pro 21. století # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://romansemik.cz/" # the base hostname & protocol for your site
+
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -67,13 +69,13 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: stoural
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
 
 gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+  profilePage: https://plus.google.com/+RomanŠemík  
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
