@@ -10,6 +10,7 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 * Dary zasílejte na transparentní účet Pirátů [**2100048174/2010**][1]. Je třeba vyplnit specifický symbol: **192044**
 * Na mou emailovou adresu zašlete následující informace: **částku, jméno, příjmení, datum narození a adresu trvalého pobytu**.
 * V případě právnické osoby prosím o zaslání **částky, obchodní firmy nebo názvu, sídla a IČO**
+* V obou případech (fyzická i právnická osoba) můžete využít pro usnadnění [platební bránu][2] (nemusíte posílat email).
 * **Bez zaslání těchto údajů bude ze zákona nezbytné zaslat dar zpět odesílateli.**
 * Po obdržení potřebných údajů dojde k převodu daru na volební účet, ze kterého je možné kampaň financovat.
 * **POZOR! NA VOLEBNÍ ÚČET ŽÁDNÉ DARY NEZASÍLAT.**
@@ -19,3 +20,4 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 
 
 [1]: https://ib.fio.cz/ib/transparent?a=2100048174
+[2]: https://dary.pirati.cz/sesemikemdosenatu/
