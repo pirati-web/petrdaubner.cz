@@ -3,7 +3,7 @@ date: 2018-08-13
 category: blog
 tags: senat
 layout: post
-title: Rozhovor pro ČD Průvodce: Můžete potkat ve vlaku
+title: Rozhovor pro ČD Průvodce\: Můžete potkat ve vlaku
 author: Roman Šemík
 authorId: roman.semik    # uid nekoho z _people (nepoviné)
 image: posts/vlak.jpg
