@@ -76,11 +76,14 @@ univerzity
 **Související odkazy:**<br/>
 https://www.facebook.com/SeSemikemDoSenatu<br/>
 [Senátor na plný úvazek][1] <br/>
-[Pirátská putovní univerzita][2]  <br/>
+[140 Havlíčků: kontaktní síť v samosprávných obcích][2]<br/>
 [Polylinguahack - otevřená učebnice][3]<br/>
+[Pirátská putovní univerzita][4]  <br/>
 
 [1]:https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44
-[2]:https://www.facebook.com/groups/257921767995854/
+[2]:https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/140-havlicku
 [3]:https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/polylinguahack 
+[4]:https://www.facebook.com/groups/257921767995854/
+
 
 
