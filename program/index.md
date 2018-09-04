@@ -1,10 +1,20 @@
 ---
 layout: program-post
-title: Program do voleb o Senát Parlamentu ČR
+title: Jaký budu senátor
 description: Ing. Roman Semík - volební program kandidáta do senátu
 keywords: program, senát
 rbar: fb
 ---
+
+- Senátor na plný úvazek, tj. bez dalších pracovních povinností
+- Aktivní ambasador obvodu: ombudsman pro voličky i voliče, lobbista pro starostky i starosty
+- Budu mít 2 kanceláře (Chrudim, Havlíčkův Brod) s bezplatnou občanskou poradnou
+- Vytvořím si občanskou síť až 140 „havlíčků“, co mi řeknou věci narovinu a bez příkras (kontaktní osoba přímo ve vaší obci, budete-li mít zájem)
+- Otevřu Senát 
+- Voličský kompas: s vaší pomocí si vytvořím důležité transparentní vodítko, jak hlasovat
+- Nežli špatný zákon, to radši žádný
+
+# PROGRAM DO VOLEB O SENÁT PARLAMENTU ČR
 
 ## Revizní dílna parlamentu
 
