@@ -14,6 +14,8 @@ rbar: fb
 - Voličský kompas: s vaší pomocí si vytvořím důležité transparentní vodítko, jak hlasovat
 - Nežli špatný zákon, to radši žádný
 
+## *„Dobře je tam, kde mohou občané mluvit s politikem jako rovní s rovným“*
+
 # PROGRAM DO VOLEB O SENÁT PARLAMENTU ČR
 
 ## Revizní dílna parlamentu
