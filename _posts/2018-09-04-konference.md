@@ -3,7 +3,7 @@ date: 2018-09-04
 category: blog
 tags: Piráti, senát, Roman Šemík, Chrudimsko, Pirátská putovní univerzita, Polylinguahack
 layout: post
-title: Tryskem do cílové rovinky: Kandidát do Senátu Šemík sází na jinou formu komunikace s voliči
+title: Tryskem do cílové rovinky\: Kandidát do Senátu Šemík sází na jinou formu komunikace s voliči
 author: Roman Šemík
 authorId: roman.semik    # uid nekoho z _people (nepoviné)
 image: posts/konference.jpg
