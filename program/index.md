@@ -15,6 +15,10 @@ rbar: fb
 - Nežli špatný zákon, to radši žádný
 
 ## *„Dobře je tam, kde mohou občané mluvit s politikem jako rovní s rovným“*
+.
+
+.
+
 
 # PROGRAM DO VOLEB O SENÁT PARLAMENTU ČR
 
