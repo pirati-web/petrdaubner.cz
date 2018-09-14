@@ -10,7 +10,7 @@ image: posts/motoracek.jpg
 ---
 **ZÁVAZNÁ REGISTRACE ZÁJEMCŮ O JÍZDU** [ZDE.][5]
 
-```{% raw %}{% include youtube.html id='c159J6O_Hqk' %}{% endraw %}```
+{% raw %}{% include youtube.html id='c159J6O_Hqk' %}{% endraw %}
 
 Před několika měsíci jsem se rozhodl, že si udělám radost a že udělám radost i lidem na Chrudimsku a Havlíčkobrodsku. S přáteli a s předsedou [Pardubického spolku historie železniční dopravy][1] panem Čížkem jsme začali připravovat jízdu motorovým vozem řady [M131][2] (lidově zvaným [Hurvínek][3]).
 
