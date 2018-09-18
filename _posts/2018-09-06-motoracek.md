@@ -8,7 +8,7 @@ author: Roman Šemík
 authorId: roman.semik    # uid nekoho z _people (nepoviné)
 image: posts/motoracek.jpg
 ---
-**ZÁVAZNÁ REGISTRACE ZÁJEMCŮ O JÍZDU** [ZDE.][5]
+## REGISTRACE ZÁJEMCŮ O JÍZDU MOTORÁČKEM ZDARMA [ZDE.][5]
 
 {% include youtube.html id='c159J6O_Hqk' %}
 
@@ -21,24 +21,19 @@ Zatím vycházíme z orientačního jízdního řádu pro 29. září. Bude se u
 
 **TAM**<br/>
 Rosice n. L.	9:40<br/>
-Chrudim 	9:55 – 10:45	<br/>
-Slatiňany 	10:50 – 11:20<br/>
-Chrast 		11:30 – 11:50	<br/>
+Chrudim 	9:55 – 10:45	(hudební produkce) <br/>
+Slatiňany 	10:50 – 11:20 (hudební produkce)<br/>
+Chrast 		11:30 – 11:50	(hudební produkce)<br/>
 Žďárec 		12:08 – 12:42<br/>
-Hlinsko 		13:01 – 14:20	<br/>
+Hlinsko 		13:01 – 14:20 (hudební produkce)<br/>
 Ždírec 		14:40 – 14:50<br/>
-Chotěboř 	15:00		
+Chotěboř 	15:00		 (hudební produkce)
 
 **ZPĚT**<br/>
-Chotěboř 	odjezd 16:00<br/>                         
-Ždírec nad Doubravou                 16:11      <br/>                            
-Hlinsko v Čechách                    16:26      <br/>                            
-Žďárec u Skutče       16:42        <br/>                                                     
-Chrast u Chrudimi     16:59    28    17:27      <br/>                         
-Slatiňany                            17:35       <br/>                         
-Chrudim               17:40    29    18:09    <br/>                          
-Medlešice                            18:14    <br/>                              
-Pardubice-Ros.n.Lab.    18:30                              
+Chotěboř odjezd 16:10<br/>
+Chrast 16:59 – 17:27<br/>
+Chrudim 17:40 – 18:09<br/>
+Rosice cca 18:30                            
 
 [1]:http://motoracek.cz/
 [2]:http://www.pshzd.cz/m1311228.html
