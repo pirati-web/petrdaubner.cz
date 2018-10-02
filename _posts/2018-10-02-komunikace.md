@@ -26,7 +26,7 @@ Ve spolupráci s Pirátskou putovní univerzitou zkouším hledat nové možnost
 
 **1) Skládání účtů už během kampaně** 
 Navštívil jsem už 73 obcí, mluvím s lidmi na ulici, s lidmi, co kandidují do komunálu, se starosty a starostkami. 
-Zde můžete průběžně sledovat, jak nakládám už během kampaně s vašimi podněty: [https://docs.google.com/spreadsheets/d/1ksjnkRlCaphOpecdJSc44BRhpKY3BLrAPQ0l3QaDhjI][]
+Zde můžete průběžně sledovat, jak nakládám už během kampaně s vašimi podněty: [zde](https://docs.google.com/spreadsheets/d/1ksjnkRlCaphOpecdJSc44BRhpKY3BLrAPQ0l3QaDhjI)
 
 **2) Po mně... stopa**
 Vypravěčské festiválky
@@ -38,7 +38,7 @@ Vím, že v Havlíčkově Brodě a Šlapanově určitě, ale snad i v jiných ob
 Vyzkoušel jsem si, že už samotná kampaň může být užitečná. Vybílil jsem a uklidil posprejovanou zastávku u Lukavice. Dnes se pomaličku mění v něco jako „svobodnou venkovní galerii s výměnnou knihovničkou“, kam každý může přinést vlastní obrázek a knihu a vzít si výměnou za ně to, co ho zaujalo. 
 
 **4) Transparentní vyúčtování kampaně**
-Všechno podstatné o kampani najdete zde: [https://romansemik.cz/kontakt/][]
+Všechno podstatné o kampani najdete zde: [zde](https://romansemik.cz/kontakt/)
 
 **5) Předání know-how o volebním obvodu a jeho potřebách dalším kandidátům, politikům a o kampani jako takové**
 
@@ -47,7 +47,7 @@ Závěrem kampaně si uděláme s volební manažerkou tzv. 360stupňovou zpětn
 
 ## PODPORUJI INOVACE V POLITICE I VE VZDĚLÁVÁNÍ
 Otevřená učebnice Polylinguahack:  Ke zvýšení zájmu o senátní volby může přispět snad i projekt Pirátské putovní univerzity – kolektivní tvorba učebnice pro učení cizích jazyků s názvem Polylinguahack, který byl spuštěn pod mou patronací na začátku ostré fáze kampaně. Projekt v sobě spojuje do jednoho modulu inovativní metodiku výuky cizích jazyků, kurz programování v jazyce Python (zmíněná metodika se bude přetavovat v aplikaci vytvářenou pod licencí Creative Commons) a rešerše inspirativních příkladů dobré praxe a zajímavých inovací ze zahraničí. Kdokoliv z řad veřejnosti má jedinečnou příležitost se do tohoto netradičního studia cizích jazyků a programování zapojit. Projekt vymyslela a vede zakladatelka a kurátorka Pirátské putovní univerzity Miluš Kotišová, IT konzultantem projektu je programátor Tomáš Mikulec: „Spousta lidí si myslí, že programování je velice složité a je na to potřeba pěti let vysoké školy. V dnešní době máme spousty nástrojů,  jak počítačům vysvětlit, co od nich chceme. Proto jsem mimo jiné spojil síly s Pirátskou putovní univerzitou, která to vidí podobně.“   
-Více o tomto projektu zde:  [https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/polylinguahack][]
+Více o tomto projektu zde:  [zde](https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/polylinguahack)
 
 
 *"Běžný občan je až ten poslední, kdo by měl nést břímě špatných rozhodnutí. Stát musí dobře plnit své povinnosti vůči nám, občanům."*   
