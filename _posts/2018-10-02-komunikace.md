@@ -19,7 +19,7 @@ Chci být ve výkonu senátorské funkce transparentní, věnovat se tomu na pln
 
 ## 2 KANCELÁŘE V REGIONU A KONTAKTNÍ SÍŤ 140 “HAVLÍČKŮ”
 V případě zvolení otevřu dvě kanceláře v obvodu a budu zde nabízet bezplatnou občanskou poradu. A vedle toho si začínám budovat kontaktní síť se zástupci pro každou samosprávnou obec. Říkám jim „Havlíčci“, budou to takoví přímočaří a spolehliví pošťáci, kteří mi budou dávat zpětnou vazbu a vyřídí ústní vzkaz od obyvatel obce, kteří upřednostňují osobní styk. Aktuálně síť čítá 8 zástupců a 3 jsou v jednání. Zájemci o tuto čestnou “pozici” se mi mohou hlásit také sami. 
-Seznam a představení Havlíčků zde: [https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/140-havlicku][]  
+Seznam a představení Havlíčků zde: [zde](https://wiki.pirati.cz/regiony/vysocina/senatni-kampan-chrudim_44/140-havlicku) 
 
 ## KAMPAŇ JINAK – SMYSLUPLNĚJI A ODPOVĚDNĚ
 Ve spolupráci s Pirátskou putovní univerzitou zkouším hledat nové možnosti politické kampaně a zajímá mne, jestli může už během kampaně vzniknout něco prospěšného. Může samotná kampaň posunout hranice možného v politice? Cesta k navrácení důvěry v politiky nebude snadná, ale pojďme spolu začít otevřeně  - napříč různými sociálními bublinami - mluvit o tom, jak se dá vykřesat politika nová - jako skutečná služba občanům. A vyzkoušet to konkrétně v reálném životě.
