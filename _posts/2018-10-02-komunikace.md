@@ -11,7 +11,7 @@ image: posts/roman.jpg
 
 *Jsem přesvědčený, že k prosperitě vedou KOMUNIKACE NEJRŮZNĚJŠÍHO DRUHU. Myslím tím třeba komunikaci dopravní, informační či mezilidskou. A ještě konkrétněji hustou a spolehlivou dopravní síť, jednodušší komunikaci se státem, rychlý internet či otevřenou mezilidskou komunikaci vzájemně se respektujících občanů. To vše je důležitý základ pro jakýkoli další rozvoj. Toto budu všemožně podporovat.*
 
-## SILNĚJŚÍ MANDÁT SENÁTORA 
+## SILNĚJŠÍ MANDÁT SENÁTORA 
 Podporuji zrušení druhého kola voleb do Senátu, už tím by se o něco posílil mandát zvoleného senátora. Ale domnívám se, že je třeba udělat pro opětovné získání důvěry voličů ve smysl této instituce (a vůbec politiky jako takové) podstatně více. Odpovědnost musí kandidáti ukázat už během kampaně. Snažil jsem se o kampaň, která je více smysluplná a prospěšná. Něco po ní zkrátka zůstane – a nebudou to jen sliby.
 
 ## TRANSPARENTNÍ SENÁTOR NA PLNÝ ÚVAZEK
