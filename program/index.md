@@ -21,7 +21,9 @@ rbar: fb
 
 
 # PROGRAM DO VOLEB O SENÁT PARLAMENTU ČR
-
+.
+*OBECNĚ: Jsem přesvědčený, že k prosperitě vedou KOMUNIKACE NEJRŮZNĚJŠÍHO DRUHU. Myslím tím třeba komunikaci dopravní, informační či mezilidskou. A ještě konkrétněji hustou a spolehlivou dopravní síť, jednodušší komunikaci se státem, rychlý internet či otevřenou mezilidskou komunikaci vzájemně se respektujících občanů. To vše je důležitý základ pro jakýkoli další rozvoj. Toto budu všemožně podporovat.*
+.
 ## Revizní dílna parlamentu
 
 Ačkoli má Senát možnost zákony navrhovat, jeho základní funkce je jiná. Jako senátor bych se účastnil revidování norem, které byly schváleny ve sněmovně. Opravovat, korigovat, pozměňovat, vracet zpět. To je základ práce senátora. Někdo může namítnout, že Senát jen brzdí a zdržuje. I to však patří k demokracii. Mnohé zákony jsou šité horkou jehlou. Než špatný zákon, to raději žádný zákon. Budu se snažit o to, aby nové legislativní úpravy nepřispívaly k ještě větší houštině zákonů, ve které se málokdo vyzná. Z výborů, ve kterých se odehrává velká část senátorských aktivit, by mi byl nejbližší Výbor pro územní rozvoj, veřejnou správu a životní prostředí nebo Výbor pro hospodářství, zemědělství a dopravu.
