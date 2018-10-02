@@ -16,9 +16,12 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 
 [**Účetní doklady výdajů na kampaň**][5]
 
+.<br/>
+.<br/>
 
 
-## Informace pro dárce
+
+## Informace pro dárce (pozor, dary už nepřijímám)
 
 * Dary zasílejte na transparentní účet Pirátů [**2100048174/2010**][1]. Je třeba vyplnit specifický symbol: **192044**
 * Na mou emailovou adresu zašlete následující informace: **částku, jméno, příjmení, datum narození a adresu trvalého pobytu**.
