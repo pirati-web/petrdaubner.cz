@@ -13,9 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /lide/roman-semik/
+  - link: /lide/petr-daubner/
     name: Můj příběh
-    match: muj-pribeh
+    match: petr-daubner
   - link: /program/
     name: Program
     match: program

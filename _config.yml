@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Roman Šemík - Skočte se Šemíkem do Senátu
-email: roman.semik@pirati.cz
+title: Petr Doubner - kandidát do Senátu
+email: Petr.doubner@pirati.cz
 description: Nezávislý kandidát s podporou Pirátů a hnutí SENÁTOR 21. Architekt IT bezpečnosti, rodopisec, občanský aktivista.
 keywords: Senát, Piráti, Politika, Liberální, Demokracie
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://romansemik.cz/" # the base hostname & protocol for your site
+url: "https://petrdoubder.cz/" # the base hostname & protocol for your site
 
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -30,11 +30,11 @@ sass:
   sass_dir: _sass
 
 organization:
-  name: Česká pirátská strana - Roman Šemík
-  shortName: Roman Šemík
-  contactUid: roman.semik
-  email: roman.semik@pirati.cz
-  phone: +420 724 122 151
+  name: Petr Doubner - kandidát do senátu
+  shortName: Petr Doubner
+  contactUid: petr.doubner
+  email: petr.doubner@pirati.cz
+  phone: +420 
   address: |
     Piratská planeta 1
     100 00 Pirátsko
@@ -54,15 +54,14 @@ homepageBanner:
 calendar:
   # Get api key from Google Developer Console
   apiKey:
-  title: Roman Šemík - Kalendář
+  title: Petr Doubner - Kalendář
   id: cm9tYW4uc2VtaWtAZ21haWwuY29t@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=roman.semik%40gmail.com&amp;&ctz=Europe%2FPrague&amp;color=%232952A3
 
 
 facebook:
   loadSDK: true
-  profilePage: https://www.facebook.com/SeSemikemDoSenatu/
-  appId: 1526197851008996
+  profilePage: https://www.facebook.com/petr.daubner.7
 
 twitter:
   loadSDK: true
@@ -72,7 +71,7 @@ instagram:
   profilePage: https://www.instagram.com/pirati.cz/
 
 gplus:
-  profilePage: https://plus.google.com/+RomanŠemík  
+  profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
@@ -81,7 +80,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/romansemik.cz
+  url: https://github.com/pirati-web/petrdaubner.cz
   branch: master
 
 # Build settings
@@ -120,7 +119,7 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar: "people, foto, personContact"
+      rbar: "foto, personContact"
   -
     scope:
       path: "_program"

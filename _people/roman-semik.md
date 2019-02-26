@@ -4,7 +4,6 @@ name:     Roman Šemík  	# běžně používáné jméno
 fullname: Ing. Roman Šemík  	# jméno s tituly etc.
 category:
   - senator
-  - kontaktni_osoba
 description: kadidát na senátora # zobrazuje se v lide
 img: people/semik.jpg # zakomentuj radek dokud není fotka
 ordclenove: 1
