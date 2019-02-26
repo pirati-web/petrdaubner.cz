@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Petr Doubner - kandidát do Senátu
 email: Petr.doubner@pirati.cz
-description: Nezávislý kandidát s podporou Pirátů a hnutí SENÁTOR 21. Architekt IT bezpečnosti, rodopisec, občanský aktivista.
+description: "Člen Pirátů, kandiduje s podporou ČSSD, Zelených a SEN 21. Středoškolský učitel a cestovatel"
 keywords: Senát, Piráti, Politika, Liberální, Demokracie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://petrdoubder.cz/" # the base hostname & protocol for your site
