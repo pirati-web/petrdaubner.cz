@@ -18,7 +18,7 @@ email: Petr.daubner@pirati.cz
 description: "Člen Pirátů, kandiduje s podporou ČSSD, Zelených a SEN 21. Středoškolský učitel a cestovatel"
 keywords: Senát, Piráti, Politika, Liberální, Demokracie
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://petrdoubder.cz/" # the base hostname & protocol for your site
+url: "https://petrdaubder.cz/" # the base hostname & protocol for your site
 
 twitter_username: jekyllrb
 github_username:  jekyll
