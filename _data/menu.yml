@@ -16,9 +16,9 @@ main:
   - link: /lide/petr-daubner/
     name: Můj příběh
     match: petr-daubner
-  - link: /program/
-    name: Program
-    match: program
+    # - link: /program/
+    #name: Program
+    #match: program
   #  Fotogalerie potřebuje ještě doladit, zatím v první verzi nebude
   # - link: /fotogalerie/
   #   name: Fotogalerie
