@@ -13,7 +13,7 @@ mail:
 mob:			 
 profiles:
   github:       
-  facebook:  https://www.facebook.com/petr.daubner.7 
+  facebook:  https://www.facebook.com/daubner.petr
   twitter: 		  
   flickr:		  
 ---
