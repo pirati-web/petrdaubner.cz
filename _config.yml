@@ -54,7 +54,7 @@ homepageBanner:
 calendar:
   # Get api key from Google Developer Console
   apiKey:
-  title: Petr Doubner - Kalendář
+  title: Petr Daubner - Kalendář
   id: cm9tYW4uc2VtaWtAZ21haWwuY29t@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=roman.semik%40gmail.com&amp;&ctz=Europe%2FPrague&amp;color=%232952A3
 
