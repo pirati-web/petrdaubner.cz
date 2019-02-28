@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Petr Doubner - kandidát do Senátu
-email: Petr.doubner@pirati.cz
+title: Petr Daubner - kandidát do Senátu
+email: Petr.daubner@pirati.cz
 description: "Člen Pirátů, kandiduje s podporou ČSSD, Zelených a SEN 21. Středoškolský učitel a cestovatel"
 keywords: Senát, Piráti, Politika, Liberální, Demokracie
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,10 +30,10 @@ sass:
   sass_dir: _sass
 
 organization:
-  name: Petr Doubner - kandidát do senátu
-  shortName: Petr Doubner
-  contactUid: petr.doubner
-  email: petr.doubner@pirati.cz
+  name: Petr Daubner - kandidát do senátu
+  shortName: Petr Daubner
+  contactUid: petr.daubner
+  email: petr.daubner@pirati.cz
   phone: +420 
   address: |
     Na Moráni 3,
@@ -80,7 +80,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/petrdaubner.cz
+  url: https://github.com/pirati-web/petrdaubner.cz/
   branch: master
 
 # Build settings
