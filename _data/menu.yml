@@ -19,10 +19,8 @@ main:
     # - link: /program/
     #name: Program
     #match: program
-  #  Fotogalerie potřebuje ještě doladit, zatím v první verzi nebude
-  # - link: /fotogalerie/
-  #   name: Fotogalerie
-  #   match: fotogalerie
+  - link: https://www.flickr.com/photos/pirati/sets/72157690053163063
+    name: Fotogalerie
   - link: /kontakt/
     name: Kontakt
     match: kontakt
