@@ -6,10 +6,8 @@ keywords: program, senát
 rbar: fb
 ---
 
-# Petr Daubner: Pirát na Senát
-.
-*Výběr z programu*
-.
+# Petr Daubner: Programové priority
+
 ## Proevropská zahraniční politika
 
 - Jsme hrdí na členství České republiky v EU a v NATO
