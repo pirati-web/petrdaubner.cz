@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - kontaktni_osoba
 img: people/petr-daubner.jpg   # 165 x 220
-description: "Člen Pirátů, kandiduje s podporou ČSSD, Zelených a SEN 21. Středoškolský učitel a cestovatel"
+description: "Člen Pirátů, kandiduje s&nbsp;,podporou ČSSD, Zelených a SEN 21. Středoškolský učitel a cestovatel"
 mail:
 - petr.daubner@pirati.cz
 mob:			 
