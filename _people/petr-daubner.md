@@ -10,7 +10,7 @@ img: people/petr-daubner.jpg   # 165 x 220
 description: "Člen Pirátů, kandiduje s&nbsp; podporou ČSSD, Zelených a SEN 21. Středoškolský učitel a cestovatel"
 mail:
 - petr.daubner@pirati.cz
-mob:			 
+mob: +420 730 683 800			 
 profiles:
   github:       
   facebook:  https://www.facebook.com/daubner.petr
