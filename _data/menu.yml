@@ -30,7 +30,7 @@ bottom:
   - class: small-12 medium-4 medium-offset-2
     title: Makáme
     links:
-      - link: /lide/roman-semik/
+      - link: /lide/petr-daubner/
         name: Můj příběh
       - link: /program/
         name: Program
