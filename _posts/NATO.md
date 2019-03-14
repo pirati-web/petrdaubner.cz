@@ -6,7 +6,7 @@ layout: post
 title: NATO
 author: Petr Daubner
 authorId: petr.daubner
-image: assets/img/posts/nato_flag.jpg
+image: posts/nato_flag.jpg
 ---
 
 <p style='text-align: justify;'>
