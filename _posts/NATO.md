@@ -1,13 +1,14 @@
 ---
 date: 2019-03-14
 category: blog
-#tags: zahranicni
+#tags: zahranici bezpecnost
 layout: post
 title: NATO
 author: Petr Daubner
 authorId: petr.daubner
-image: /assets/img/posts/nato_flag.jpg
+image: assets/img/posts/nato_flag.jpg
 ---
+
 <p style='text-align: justify;'>
 V úterý 12. 3. upynulo dvacet let od momentu, kdy jsme se stali členy Severoatlantické aliance NATO a naše směřování na západ bylo tímto potvrzeno. Cesta až sem však nebyla lehká.
 
@@ -26,3 +27,5 @@ Jak jsem již zmínil, každý může v současnosti v Česku vyznávat své vla
 </p><p style='text-align: justify;'>
 Nepřipomíná vám to něco? Mně to připomíná minulost, do které se rozhodně vracet nechci. Jsem rád za to, že jsem svobodný člověk a můžu kandidovat za koho chci nebo cestovat kam chci. Jsem také rád za to, že je Česká republika člen aliance NATO, která tyto hodnoty v případě ohrožení chrání. 
 </p>
+
+---
