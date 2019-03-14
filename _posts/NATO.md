@@ -1,7 +1,7 @@
 ---
 date: 2019-03-14
 category: blog
-#tags: zahranici bezpecnost
+#tags: zahranici
 layout: post
 title: NATO
 author: Petr Daubner
