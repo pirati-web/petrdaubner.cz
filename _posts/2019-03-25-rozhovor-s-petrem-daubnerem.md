@@ -23,13 +23,17 @@ Na Praze&nbsp;9 je 33 zastupitelů. Koalice ODS, TOP 09 a STAN mají dohromady p
 
 <b>Jaké výzvy život v&nbsp;deváté městské části přináší?</b>
 <p style='text-align: justify;'>
-Praha 9 funguje relativně dobře, i když problémy tu jsou. Jedná se třeba o čistotu ovzduší. V dolních Vysočanech, když je v zimě inverze, můžete pozorovat deku splodin. Řešíme tu problém se zastavěním náměstí OSN. Ve svém předvolebním programu jsme se začali zabývat otázkou připravovaného nového územního plánu. Navrhuje se v&nbsp;něm další úbytek zeleně, které už tak nemáme mnoho. Plánuje se diskutabilní výstavba. Vedle vysočanského mrakodrapu Eliška by měla vyrůst celá řada dalších mrakodrapů. S&nbsp;tím zásadně nesouhlasíme. Na druhou stranu výstavbu nových obytných domů na brownfi eldech (např. na pozemcích bývalé ČKD) určitě podporujeme.
+Praha 9 funguje relativně dobře, i když problémy tu jsou. Jedná se třeba o čistotu ovzduší. V dolních Vysočanech, když je v zimě inverze, můžete pozorovat deku splodin. Řešíme tu problém se zastavěním náměstí OSN. Ve svém předvolebním programu jsme se začali zabývat otázkou připravovaného nového územního plánu. Navrhuje se v&nbsp;něm další úbytek zeleně, které už tak nemáme mnoho. Plánuje se diskutabilní výstavba. Vedle vysočanského mrakodrapu Eliška by měla vyrůst celá řada dalších mrakodrapů. S&nbsp;tím zásadně nesouhlasíme. Na druhou stranu výstavbu nových obytných domů na brown fieldech (např. na pozemcích bývalé ČKD) určitě podporujeme.
 </p><br />
 
 <b>Co je problém, co naopak pozitivní?</b>
 <p style='text-align: justify;'>
 Můžeme jmenovat nesnadnou dopravní situaci, neustálé zácpy, není dostavěný okruh. Jsou tu ovšem i klady. Na Praze 9 pracuji a žiji, do práce chodím pěšky. Spousta věcí se pohnula k lepšímu. Jsem mj. nadšený běžec a u Rokytky jsou moc hezké úseky. Největší problém pro městskou část do budoucna představuje výrazný nárůst počtu obyvatel. Dnes je to 55&nbsp;tisíc obyvatel, avšak podle některých prognóz se tento počet může do dvaceti let zdvojnásobit. Narážíme na limity infrastruktury. U základních škol jsou kapacity omezené, o školkách ani nemluvě, ty nedostačují už teď. Naopak třeba na Proseku na sídlištích populace stárne a je třeba řešit potřeby našich seniorů.
 </p><br />
+
+<img src="https://petrdaubner.cz/assets/img/posts/Piratske_Listy_PetrDaubner_TISK.jpg" width="55%"/>
+
+<i>Závod na 5 km v Braníku</i>
 
 <b>Jsi pirátským kandidátem s podporou dalších politických subjektů. Jak k&nbsp;tomu došlo, v čem spojuješ odlišné politické platformy?</b>
 <p style='text-align: justify;'>
@@ -62,7 +66,7 @@ Piráti určitě v eurovolbách uspějí a budou působit stejným způsobem jak
 Navštívil jsem přes osmdesát zemí na sedmi kontinentech. Vždycky mě to lákalo a někdy od maturity, vysoké školy jsem se snažil, vždy na měsíc na dva, někam vyjet. Zpočátku to byly exotické země mimo Evropu. V&nbsp;současnosti mám jako učitel dva měsíce prázdnin. Dal jsem se na pěší turistiku, dálkové trasy s&nbsp;batohem a někdy spím i pod širákem.
 </p><br />
 
-<img src="https://petrdaubner.cz/assets/img/posts/Piratske_Listy_PetrDaubner_TISK2.jpg" width="55%">
+<img src="https://petrdaubner.cz/assets/img/posts/Piratske_Listy_PetrDaubner_TISK2.jpg" width="55%"/>
 
 <i>Pěší cesta z Kamenice u Prahy až na mys Finisterre („Konec světa“) ve Španělsku mi trvala rovných 100 dní, ušel jsem asi 3 500 kilometrů.</i>
 
