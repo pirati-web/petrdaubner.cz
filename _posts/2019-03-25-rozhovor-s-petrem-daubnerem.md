@@ -6,7 +6,7 @@ layout: post
 title: Rozhovor s Petrem Daubnerem
 author: Michal Chalupa
 authorId: michal.chalupa
-image: posts/Petr_Daubner_fotka.PNG
+image: posts/Petr_Daubner_fotka.jpg
 ---
 
 <i>Mgr.&nbsp;Petr Daubner je středoškolský pedagog, cestovatel a Pirát. Jako učitel zeměpisu a dějepisu působí na Gymnáziu Špitálská, jako zastupitel za Českou pirátskou stranu pak na Městské části Praha&nbsp;9. Ta je součástí volebního obvodu č.&nbsp;24, kde se rozhodl kandidovat v doplňovacích volbách do Senátu Parlamentu České republiky 5. a 6.&nbsp;dubna 2019.</i>
