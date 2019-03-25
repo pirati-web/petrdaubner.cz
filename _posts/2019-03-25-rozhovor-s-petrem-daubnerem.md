@@ -33,7 +33,7 @@ Můžeme jmenovat nesnadnou dopravní situaci, neustálé zácpy, není dostavě
 
 <img src="https://petrdaubner.cz/assets/img/posts/Piratske_Listy_PetrDaubner_TISK.jpg" width="55%"/>
 
-<i>Závod na 5 km v Braníku</i>
+<i>Závod na 5 km v Braníku</i><br />
 
 <b>Jsi pirátským kandidátem s podporou dalších politických subjektů. Jak k&nbsp;tomu došlo, v čem spojuješ odlišné politické platformy?</b>
 <p style='text-align: justify;'>
