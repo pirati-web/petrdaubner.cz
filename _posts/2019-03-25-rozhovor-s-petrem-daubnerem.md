@@ -62,7 +62,8 @@ Piráti určitě v eurovolbách uspějí a budou působit stejným způsobem jak
 Navštívil jsem přes osmdesát zemí na sedmi kontinentech. Vždycky mě to lákalo a někdy od maturity, vysoké školy jsem se snažil, vždy na měsíc na dva, někam vyjet. Zpočátku to byly exotické země mimo Evropu. V&nbsp;současnosti mám jako učitel dva měsíce prázdnin. Dal jsem se na pěší turistiku, dálkové trasy s&nbsp;batohem a někdy spím i pod širákem.
 </p><br />
 
-<img src="https://petrdaubner.cz/assets/img/posts/Piratske_Listy_PetrDaubner_TISK2.jpg" width="40%">
+<img src="https://petrdaubner.cz/assets/img/posts/Piratske_Listy_PetrDaubner_TISK2.jpg" width="55%">
+
 <i>Pěší cesta z Kamenice u Prahy až na mys Finisterre („Konec světa“) ve Španělsku mi trvala rovných 100 dní, ušel jsem asi 3 500 kilometrů.</i>
 
 ---
