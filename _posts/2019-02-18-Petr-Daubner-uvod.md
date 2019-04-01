@@ -3,7 +3,7 @@ date: 2019-02-18
 category: blog
 #tags: general
 layout: post
-title: S Petrem Daubnerem v Senátu společné priority prosadíme
+title: Kandidátem na senátora v obvodě Praha 9 je Petr Daubner
 author: 
 authorId: 
 image: posts/Petr_Pir_pozadi.jpg
