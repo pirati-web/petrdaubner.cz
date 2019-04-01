@@ -20,8 +20,7 @@ Jsme za jedno i v&nbsp;tom, že lidé musejí mít nárok na kvalitní vzdělán
 Zmíněné programové cíle Petra Daubnera prosazuje dlouhodobě i ČSSD. Věřím, že společnými silami dokážeme v Senátu lépe prosazovat proevropský a sociálně odpovědný program. 
 
 <center><i><b>Přijďte k volbám,<br>
-i Váš hlas se počítá!</b></center>
-
+i Váš hlas se počítá!</b><br>
 S úctou<br>
-Tomáš Petříček</i><br>
+Tomáš Petříček</i></center><br>
 
