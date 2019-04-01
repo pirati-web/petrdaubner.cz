@@ -8,8 +8,9 @@ author: Tomáš Petříček
 authorId: tomas.petricek
 image: posts/Petr_Daubner_Tomas_Petricek.jpg
 ---
+<i>Mgr. Tomáš Petříček, M.A., Ph.D. (* 27. září 1981 Rokycany) je český politik, od října 2018 ministr zahraničních věcí ČR. Mezi srpnem až říjnem 2018 působil jako náměstek ministra zahraničních věcí a od května do prosince 2017 byl náměstkem ministryně práce a sociálních věcí ČR. Od března 2019 je místopředsedou ČSSD.</i>
 
-Proevropské a proalianční směřování je neoddiskutovatelným klíčem k&nbsp;rozvoji naší země. To už z&nbsp;mých veřejných vystoupení coby ministra zahraničí víte. Pro naši bezpečnost a prosperitu je zásadní, aby byla Česká republika hrdým a aktivním členem NATO i Evropské unie, a aby si v&nbsp;těchto institucích dokázala prosadit svou. Jako ministr zahraničí odmítám možnost vystoupení České republiky z&nbsp;Evropské unie. To by znamenalo pro naši zemi nejen ekonomickou, ale také sociální a bezpečnostní katastrofu. 
+Proevropské a proalianční směřování je neoddiskutovatelným klíčem k&nbsp;rozvoji naší země. To už z&nbsp;mých veřejných vystoupení coby ministra zahraničí víte. Pro naši bezpečnost a prosperitu je zásadní, aby byla Česká republika hrdým a aktivním členem NATO i Evropské unie, a aby si v&nbsp;těchto institucích dokázala prosadit svou. Jako ministr zahraničí odmítám možnost vystoupení České republiky z&nbsp;Evropské unie. To by znamenalo pro naši zemi nejen ekonomickou, ale také sociální a bezpečnostní katastrofu.
 
 Jsem rád, že tyto názory sdílí i Petr Daubner, který má, ač je členem jiné politické strany, k&nbsp;programu sociální demokracie ideově blízko. Z&nbsp;pozice místopředsedy České strany sociálně demokratické bych mu proto rád vyjádřil svou podporu pro nadcházející doplňovací volby do Senátu, konané 5. a 6.&nbsp;dubna 2019. ČSSD v nich nebude stavět vlastního kandidáta. Nepovažujeme za rozumné tříštit síly a domníváme se, že naše hodnoty budou díky Petrovi ve volebním klání dobře zastoupeny.
 
