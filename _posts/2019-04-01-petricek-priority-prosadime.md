@@ -1,9 +1,9 @@
 ---
-date: 2019-03-18
+date: 2019-04-01
 category: blog
 #tags: zahranici
 layout: post
-title: NATO
+title: S Petrem Daubnerem v Senátu společné priority prosadíme
 author: Tomáš Petříček
 authorId: tomas.petricek
 image: posts/Petr_Daubner_Tomas_Petricek.jpg
@@ -20,8 +20,8 @@ Jsme za jedno i v&nbsp;tom, že lidé musejí mít nárok na kvalitní vzdělán
 Zmíněné programové cíle Petra Daubnera prosazuje dlouhodobě i ČSSD. Věřím, že společnými silami dokážeme v Senátu lépe prosazovat proevropský a sociálně odpovědný program. 
 
 <center><b><i>Přijďte k volbám,<br>
-i Váš hlas se počítá!<br></b>
+i Váš hlas se počítá!</b><br>
 
 S úctou<br>
-Tomáš Petříček</i><br>
-</center>
+Tomáš Petříček</i><br></center>
+
