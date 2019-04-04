@@ -3,7 +3,7 @@ date: 2019-04-02
 category: blog
 #tags: životní prostředí,
 layout: post
-title: Ke klimatickým změnám přistupujme zodpovědně!
+title: Rozhovor s Ivanem Bartošem
 author: 
 authorId: 
 image: posts/Petr-Ivan.jpg
